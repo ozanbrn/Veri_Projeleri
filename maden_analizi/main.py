@@ -11,10 +11,10 @@ st.divider()
 @st.cache_data #önbelleğe alma işlemi
 
 def veriyi_getir(): #oluşturulan fonksiyon dataframeleri çağırmak için kullanılacak
-    df_fiyat = pd.read_csv("./veriler/maden_fiyatları.csv",encoding="utf-8", sep=";") #csv dosyalarını dataframe olarak kaydediyoruz
-    df_lokasyon = pd.read_csv("./veriler/maden_lokasyon_temiz.csv",encoding="utf-8", sep=";") #csv dosyalarını dataframe olarak kaydediyoruz
-    df_rezerv = pd.read_csv("./veriler/maden_rezervleri.csv",encoding="utf-8", sep=";") #csv dosyalarını dataframe olarak kaydediyoruz
-    df_uretim = pd.read_csv("./veriler/maden_uretim.csv",encoding="utf-8", sep=";") #csv dosyalarını dataframe olarak kaydediyoruz
+    df_fiyat = pd.read_csv("maden_analizi/veriler/maden_fiyatları.csv",encoding="utf-8", sep=";") #csv dosyalarını dataframe olarak kaydediyoruz
+    df_lokasyon = pd.read_csv("maden_analizi/veriler/maden_lokasyon_temiz.csv",encoding="utf-8", sep=";") #csv dosyalarını dataframe olarak kaydediyoruz
+    df_rezerv = pd.read_csv("maden_analizi/veriler/maden_rezervleri.csv",encoding="utf-8", sep=";") #csv dosyalarını dataframe olarak kaydediyoruz
+    df_uretim = pd.read_csv("maden_analizi/veriler/maden_uretim.csv",encoding="utf-8", sep=";") #csv dosyalarını dataframe olarak kaydediyoruz
     return df_fiyat, df_lokasyon, df_rezerv, df_uretim 
 
 df_fiyat, df_lokasyon, df_rezerv, df_uretim = veriyi_getir() #CSV dosyalarını çağırmak için kullanılan fonksiyon
