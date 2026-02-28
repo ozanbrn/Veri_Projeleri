@@ -1,0 +1,11 @@
+id;maden_adi;2024;2023;2022;2021;2020;birim;aciklama
+1;Bor;590;604;651;607;594;$/Ton;1 tonun dolar karşılığı değeri
+2;Altın;2400;1945;1802;1801;1774;$/Ons;1 ons = 31.1 gram
+3;Bakır;9259.4;8487.79;8818.48;9303.5;6172.94;$/Ton;$/Ton = cents/lb * 22.046
+4;Demir;115;120.36;156.42;141.78;82.25;$/Ton;1 tonun dolar karşılığı değeri
+5;Krom;340;321;277;199;157;$/Ton;1 tonun dolar karşılığı değeri
+6;Gümüş;27.7;23.54;21.88;25.23;20.58;$/Ons;1 ons = 31.1 gram
+7;Kurşun;2425.06;2515.45;2568.36;2491.2;2012.8;$/Ton;$/Ton = cents/lb * 22.046
+8;Çinko;3174.62;3335.56;4193.15;3214.31;2442.7;$/Ton;$/Ton = cents/lb * 22.046
+9;Fosfat;100;101;99;83;76;$/Ton;1 tonun dolar karşılığı değeri
+10;Boksit;30;31;32;31;30;$/Ton;1 tonun dolar karşılığı değeri

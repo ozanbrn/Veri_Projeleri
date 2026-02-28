@@ -1,0 +1,52 @@
+id;İşletme Adı;İşleten Şirket;İl;Maden Adı;latitude;longitude
+1;Kışladağ Altın Madeni;Tüprag;Uşak;Altın;38.4945;29.1532
+2;Çöpler Altın Madeni;Anagold;Erzincan;Altın;39.4167;38.533300000000004
+3;Ovacık Altın Madeni;Koza Altın;İzmir;Altın;39.0964;26.9658
+4;Mastra Altın Madeni;Koza Altın;Gümüşhane;Altın;40.4633;39.4069
+5;Çukuralan Altın Madeni;Koza Altın;İzmir;Altın;39.1417;26.921100000000003
+6;Himmetdede Madeni;Koza Altın;Kayseri;Altın;38.9056;35.198899999999995
+7;Kaymaz Altın Madeni;Koza Altın;Eskişehir;Altın;39.5258;31.1856
+8;Öksüt Altın Madeni;Centerra;Kayseri;Altın;38.324200000000005;35.3421
+9;İvrindi Altın Madeni;Tümad;Balıkesir;Altın;39.533100000000005;27.468200000000003
+10;Efemçukuru Madeni;Tüprag;İzmir;Altın;38.3142;27.0375
+11;Lapseki Altın Madeni;Tümad;Çanakkale;Altın;40.334500000000006;26.7589
+13;Gümüşköy Tesisi;Eti Gümüş;Kütahya;Gümüş;39.4833;29.9167
+14;Küre Bakır İşletmesi;Eti Bakır;Kastamonu;Bakır;41.8083;33.7125
+15;Murgul Bakır İşletmesi;Eti Bakır;Artvin;Bakır;41.259699999999995;41.5653
+16;Çayeli Bakır İşletmesi;Çayeli Bakır;Rize;Bakır;41.0667;40.7667
+17;Madenköy Bakır;Ciner;Siirt;Bakır;38.033300000000004;42.116699999999994
+18;Halıköy Tesisleri;Eti Bakır;İzmir;Bakır;38.0864;28.1481
+19;Hanönü (Gökırmak);Acacia;Kastamonu;Bakır;41.65;34.4833
+20;Espiye Bakır;Eti Bakır;Giresun;Bakır;40.9333;38.716699999999996
+21;Kırka Bor İşletmesi;Eti Maden;Eskişehir;Bor;39.283300000000004;30.533300000000004
+22;Emet Bor İşletmesi;Eti Maden;Kütahya;Bor;39.3333;29.25
+23;Bigadiç Bor İşletmesi;Eti Maden;Balıkesir;Bor;39.4;28.133300000000002
+24;Kestelek Bor İşletmesi;Eti Maden;Bursa;Bor;39.9678;28.4875
+25;Divriği Demir Madeni;Ermaden;Sivas;Demir;39.3734;38.1121
+26;Hekimhan Demir;Ermaden;Malatya;Demir;38.825599999999994;37.9358
+27;Hasançelebi Demir;Ermaden;Malatya;Demir;39.0667;37.95
+28;Avnik Demir Sahası;Ermaden;Bingöl;Demir;38.633300000000006;40.616699999999994
+29;Eymir Demir Madeni;Bilfer;Balıkesir;Demir;39.5667;27.116699999999998
+30;Feke Demir Madeni;Özyer;Adana;Demir;37.854;35.888999999999996
+31;Kayseri Demir;Karamadazı;Kayseri;Demir;38.1667;35.3333
+32;Guleman Krom;Eti Krom;Elazığ;Krom;38.4833;39.85
+33;Kop Dağı Krom;Kop Krom;Erzincan;Krom;39.883300000000006;40.466699999999996
+34;Harmancık Krom;CVK;Bursa;Krom;39.7;29.1667
+35;Orhaneli Krom;Dimin (DBH);Bursa;Krom;39.9;28.983300000000003
+36;Bozkır Krom;Dimin (DBH);Konya;Krom;37.1833;32.25
+37;Köyceğiz Krom;Eti Elektro;Muğla;Krom;36.966699999999996;28.683300000000003
+38;Aladağ Krom;Akmetal;Adana;Krom;37.561099999999996;35.3917
+39;Pınarbaşı Krom;Dedeman;Kayseri;Krom;38.716699999999996;36.383300000000006
+40;Tavas Krom;Dedeman;Denizli;Krom;37.55;29.0833
+41;Mihalıççık Krom;Kavukçular;Eskişehir;Krom;39.866699999999994;31.5
+42;Balya Kurşun-Çinko;Esan;Balıkesir;Kurşun-Çinko;39.7667;27.5833
+43;Hakkari Çinko;Ölçer;Hakkari;Kurşun-Çinko;37.45;43.6
+44;Zamantı Kurşun;Dedeman;Kayseri;Kurşun-Çinko;38.0833;35.75
+45;Yozgat Çinko;Akmetal;Yozgat;Kurşun-Çinko;39.55;35.883300000000006
+46;Horzum Çinko;Dedeman;Adana;Kurşun-Çinko;37.7667;35.85
+47;İspir Bakır/Çinko;Lidya;Erzurum;Kurşun-Çinko;40.4833;41.0
+48;Çanakkale Kurşun;Kale Maden;Çanakkale;Kurşun-Çinko;40.0167;27.35
+49;Konya Ilgın;Eti Alüminyum;Konya;Boksit;38.283300000000004;31.9167
+50;Mazıdağı Fosfat;Eti Bakır;Mardin;Fosfat;37.5;40.5
+12;Cerattepe Madeni;Eti Bakır;Artvin;Altın;41.1667;41.8
+51;Cerattepe Madeni;Eti Bakır;Artvin;Bakır;41.1667;41.8
